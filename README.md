@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://pixabay.com/get/g76daea683c6a91473f17bb912de701ddd714f71b7ea0746815626284e4db2fa41941d34cca243f1a53db29346b06fb22f388c1114d99f27b0a78e5b14b3a9fdb_640.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://pixabay.com/get/g3fe31f0d0f3c7f833f90b94ab6139cab7a13d906a095a3822503ab51154b6f44ad890e15c4808cd0c59b4edecbba0ead_640.jpg" alt="cover" />
 </div>
 <div>
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
