@@ -15,8 +15,7 @@
 </div>
 
 <h2>
-  About Me : 
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="irfan-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/irfan-dev?trk=profile-badge">Irfanul Hasan</a></div>
+  About Me : <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="irfan-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/irfan-dev?trk=profile-badge">Irfanul Hasan</a></div>
 </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
