@@ -14,7 +14,10 @@
 <div size='20px'> Hi! My name is Irfanul Hasan. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me </h2>
+<h2>
+  About Me : 
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="irfan-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/irfan-dev?trk=profile-badge">Irfanul Hasan</a></div>
+</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -22,9 +25,6 @@
 - 🔭 I’m currently working on A software company as a Software Developer since January 21.
 
 - 🌱 I’m currently learning In depth of backend engineering
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="irfan-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/irfan-dev?trk=profile-badge">Irfanul Hasan</a></div>
-              
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
