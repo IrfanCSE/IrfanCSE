@@ -1,4 +1,4 @@
-
+<div>
 <div align="center">
 <img width="100%" height = "250px" src="./irfan.gif" alt="cover" />
 </div>
@@ -19,3 +19,4 @@
 <img src="https://img.shields.io/badge/SDLC-3F3F3F?style=flat-square&logo=MusicBrainz&logoColor=FFFFFF">![badge-dbdesign](https://img.shields.io/badge/Database%20Design-211e1b?style=flat-square&logo=mysql&logoColor=22C4E1&labelColor=211e1b)![badge-oop](https://img.shields.io/badge/oop-211e1b?style=flat-square&logo=oop&logoColor=22C4E1&labelColor=211e1b)![badge-microservices](https://img.shields.io/badge/Microservices-211e1b?style=flat-square&labelColor=211e1b)![badge-serverless](https://img.shields.io/badge/Serverless-211e1b?style=flat-square&logo=serverless&logoColor=22C4E1&labelColor=211e1b)<br />
 <img src="https://img.shields.io/badge/ORM/ODM-3F3F3F?style=flat-square&logo=iCloud&logoColor=FFFFFF">![badge-ef](https://img.shields.io/badge/Entity%20Framework-211e1b?style=flat-square&labelColor=211e1b)
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+</div>
