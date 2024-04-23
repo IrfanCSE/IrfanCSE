@@ -1,71 +1,21 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="./code-1970468.png" alt="cover" />
+<img width="100%" height = "250px" src="./irfan.gif" alt="cover" />
 </div>
 <div>
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1>Hi there, I'm Irfanul Hasan. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h3>Software Engineer | C#, .NET Core, TypeScript, React, Angular</h3>
 <p align='left'>
 <img align='right' src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 </div>
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IrfanCSE.IrfanCSE)
 
-</p>
-<div size='20px'> Hi! My name is Irfanul Hasan. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+<img src="https://img.shields.io/badge/Find%20Me-3F3F3F?style=flat-square&logo=Iconfinder&logoColor=FFFFFF">[![LinkedIn Connect](https://img.shields.io/badge/Linkedin-211e1b?style=flat-square&logoColor=0e76a8&labelColor=211e1b&logo=linkedin)](https://www.linkedin.com/in/irfan-dev/)[![Email Address](https://img.shields.io/badge/Mail-211e1b?style=flat-square&logoColor=EA4335&labelColor=211e1b&logo=gmail)](mailto:irfan.dev.bd@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-211e1b?style=flat-square&logoColor=FF5722&labelColor=211e1b&logo=blogger)](https://irfancse.github.io/Portfolio/)[![Codeforces](https://cp-logo.vercel.app/codeforces/irfancse?style=flat-square)](https://codeforces.com/profile/irfancse)
 
-<h2>
-  About Me : <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="irfan-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/irfan-dev?trk=profile-badge">Irfanul Hasan</a></div>
-</h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
-- 🔭 I’m currently working on A software company as a Software Developer since January 21.
-
-- 🌱 I’m currently learning In depth of backend engineering
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=dotnet&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=nginx&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/IrfanCSE?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-<a href = 'https://www.github.com/IrfanCSE'> <img width = '32px' align= 'left' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-
-<a href = 'https://www.linkedin.com/in/irfanul-hasan-3376ba16a'> <img width = '32px' align= 'left' src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
-
-<br>
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/IrfanCSE?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<!--
-**IrfanCSE/IrfanCSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Languages-3F3F3F?style=flat-square&logo=plex&logoColor=FFFFFF">![badge-c#](https://img.shields.io/badge/C%23-211e1b?style=flat-square&logo=c-sharp&logoColor=22C4E1&labelColor=211e1b)![badge-javascript](https://img.shields.io/badge/JavaScript-211e1b?style=flat-square&logo=JavaScript&logoColor=22C4E1&labelColor=211e1b)![badge-typescript](https://img.shields.io/badge/typescript-211e1b?style=flat-square&logo=typescript&logoColor=22C4E1&labelColor=211e1b)![badge-sql](https://img.shields.io/badge/sql-211e1b?style=flat-square&logo=microsoft-sql-server&logoColor=22C4E1&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Backend-3F3F3F?style=flat-square&logo=Serverless&logoColor=FFFFFF">![badge-c#](https://img.shields.io/badge/C%23-211e1b?style=flat-square&logo=c-sharp&logoColor=22C4E1&labelColor=211e1b)![badge-dotnet](https://img.shields.io/badge/.Net-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)![badge-dotnet6](https://img.shields.io/badge/.NET%206-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)![badge-dotnetcore](https://img.shields.io/badge/.NET%20Core-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)![badge-aspdotnetmvc](https://img.shields.io/badge/ASP.NET%20MVC-211e1b?style=flat-square&logo=.net&logoColor=22C4E1&labelColor=211e1b)<br/>
+<img src="https://img.shields.io/badge/Database-3F3F3F?style=flat-square&logo=Redis&logoColor=FFFFFF">![badge-mssql](https://img.shields.io/badge/mssql-211e1b?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=22C4E1&labelColor=211e1b)![badge-mysql](https://img.shields.io/badge/MySQL-211e1b?style=flat-square&logo=mysql&logoColor=22C4E1&labelColor=211e1b)
+<br/>
+<img src="https://img.shields.io/badge/FrontEnd-3F3F3F?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=&logoColor=FFFFFF">![badge-angular](https://img.shields.io/badge/Angular-211e1b?style=flat-square&logo=Angular&logoColor=22C4E1&labelColor=211e1b)![badge-react](https://img.shields.io/badge/ReactJS-211e1b?style=flat-square&logo=react&logoColor=22C4E1&labelColor=211e1b)![badge-redux](https://img.shields.io/badge/redux-211e1b?style=flat-square&logo=redux&logoColor=22C4E1&labelColor=211e1b)![badge-jquery](https://img.shields.io/badge/jQuery-211e1b?style=flat-square&logo=jQuery&logoColor=22C4E1&labelColor=211e1b)<br/>
+<img src="https://img.shields.io/badge/SDLC-3F3F3F?style=flat-square&logo=MusicBrainz&logoColor=FFFFFF">![badge-dbdesign](https://img.shields.io/badge/Database%20Design-211e1b?style=flat-square&logo=mysql&logoColor=22C4E1&labelColor=211e1b)![badge-oop](https://img.shields.io/badge/oop-211e1b?style=flat-square&logo=oop&logoColor=22C4E1&labelColor=211e1b)![badge-microservices](https://img.shields.io/badge/Microservices-211e1b?style=flat-square&labelColor=211e1b)![badge-serverless](https://img.shields.io/badge/Serverless-211e1b?style=flat-square&logo=serverless&logoColor=22C4E1&labelColor=211e1b)<br />
+<img src="https://img.shields.io/badge/ORM/ODM-3F3F3F?style=flat-square&logo=iCloud&logoColor=FFFFFF">![badge-ef](https://img.shields.io/badge/Entity%20Framework-211e1b?style=flat-square&labelColor=211e1b)
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
